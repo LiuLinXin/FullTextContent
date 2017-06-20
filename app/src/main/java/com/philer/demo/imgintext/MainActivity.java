@@ -9,6 +9,7 @@ import com.philer.demo.textimg.ImgInText;
 public class MainActivity extends Activity {
 
     private TextView tvText1, tvText2, tvText3, tvText4;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
