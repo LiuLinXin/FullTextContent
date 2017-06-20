@@ -17,7 +17,6 @@
     <TextView
         android:id="@+id/tvText2"
         android:layout_marginTop="10dp"
-        android:textColor="#ff0"
         android:textSize="18sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -26,7 +25,6 @@
     <TextView
         android:id="@+id/tvText3"
         android:layout_marginTop="10dp"
-        android:textColor="#ff0"
         android:textSize="18sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -35,7 +33,6 @@
     <TextView
         android:id="@+id/tvText4"
         android:layout_marginTop="10dp"
-        android:textColor="#ff0"
         android:textSize="18sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
